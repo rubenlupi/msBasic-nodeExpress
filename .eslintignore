@@ -1,0 +1,5 @@
+app/tests_old/*
+app/data/*
+gruntfile.js
+app/phantomScripts/*
+tests
